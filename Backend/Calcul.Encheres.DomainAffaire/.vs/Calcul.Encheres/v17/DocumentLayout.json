@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rihan\\OneDrive\\Bureau\\Test_Technique_Progi\\Calcul.Encheres\\Calcul.Encheres.DomainAffaire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rihan\\OneDrive\\Bureau\\Dev\\Calcul.Encheres.Api.Tests\\CalculEncheresControllerTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC366DB7-A1CA-4BC9-B666-AE963AF1A53D}|Calcul.Encheres.DomainAffaire.csproj|c:\\users\\rihan\\onedrive\\bureau\\test_technique_progi\\calcul.encheres\\calcul.encheres.domainaffaire\\voitureordinaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC366DB7-A1CA-4BC9-B666-AE963AF1A53D}|Calcul.Encheres.DomainAffaire.csproj|solutionrelative:voitureordinaire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC366DB7-A1CA-4BC9-B666-AE963AF1A53D}|Calcul.Encheres.DomainAffaire.csproj|c:\\users\\rihan\\onedrive\\bureau\\test_technique_progi\\calcul.encheres\\calcul.encheres.domainaffaire\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC366DB7-A1CA-4BC9-B666-AE963AF1A53D}|Calcul.Encheres.DomainAffaire.csproj|solutionrelative:voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC366DB7-A1CA-4BC9-B666-AE963AF1A53D}|Calcul.Encheres.DomainAffaire.csproj|c:\\users\\rihan\\onedrive\\bureau\\test_technique_progi\\calcul.encheres\\calcul.encheres.domainaffaire\\voitureluxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC366DB7-A1CA-4BC9-B666-AE963AF1A53D}|Calcul.Encheres.DomainAffaire.csproj|solutionrelative:voitureluxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rihan\\OneDrive\\Bureau\\Dev\\Calcul.Encheres.Api\\Entites\\VoitureDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rihan\\OneDrive\\Bureau\\Dev\\Calcul.Encheres.Api\\Controllers\\CalculEncheresController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rihan\\OneDrive\\Bureau\\Dev\\Calcul.Encheres.Services\\CalculEncheresServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculEncheresControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\rihan\\OneDrive\\Bureau\\Dev\\Calcul.Encheres.Api.Tests\\CalculEncheresControllerTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Dev\\Calcul.Encheres.Api.Tests\\CalculEncheresControllerTest.cs",
+              "ToolTip": "C:\\Users\\rihan\\OneDrive\\Bureau\\Dev\\Calcul.Encheres.Api.Tests\\CalculEncheresControllerTest.cs",
+              "RelativeToolTip": "..\\..\\..\\Dev\\Calcul.Encheres.Api.Tests\\CalculEncheresControllerTest.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAowD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T00:31:51.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VoitureDto.cs",
+              "DocumentMoniker": "C:\\Users\\rihan\\OneDrive\\Bureau\\Dev\\Calcul.Encheres.Api\\Entites\\VoitureDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Dev\\Calcul.Encheres.Api\\Entites\\VoitureDto.cs",
+              "ToolTip": "C:\\Users\\rihan\\OneDrive\\Bureau\\Dev\\Calcul.Encheres.Api\\Entites\\VoitureDto.cs",
+              "RelativeToolTip": "..\\..\\..\\Dev\\Calcul.Encheres.Api\\Entites\\VoitureDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T23:54:50.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalculEncheresController.cs",
+              "DocumentMoniker": "C:\\Users\\rihan\\OneDrive\\Bureau\\Dev\\Calcul.Encheres.Api\\Controllers\\CalculEncheresController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Dev\\Calcul.Encheres.Api\\Controllers\\CalculEncheresController.cs",
+              "ToolTip": "C:\\Users\\rihan\\OneDrive\\Bureau\\Dev\\Calcul.Encheres.Api\\Controllers\\CalculEncheresController.cs",
+              "RelativeToolTip": "..\\..\\..\\Dev\\Calcul.Encheres.Api\\Controllers\\CalculEncheresController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T22:21:01.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalculEncheresServices.cs",
+              "DocumentMoniker": "C:\\Users\\rihan\\OneDrive\\Bureau\\Dev\\Calcul.Encheres.Services\\CalculEncheresServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Dev\\Calcul.Encheres.Services\\CalculEncheresServices.cs",
+              "ToolTip": "C:\\Users\\rihan\\OneDrive\\Bureau\\Dev\\Calcul.Encheres.Services\\CalculEncheresServices.cs",
+              "RelativeToolTip": "..\\..\\..\\Dev\\Calcul.Encheres.Services\\CalculEncheresServices.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T21:12:09.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VoitureLuxe.cs",
+              "DocumentMoniker": "C:\\Users\\rihan\\OneDrive\\Bureau\\Test_Technique_Progi\\Calcul.Encheres\\Calcul.Encheres.DomainAffaire\\VoitureLuxe.cs",
+              "RelativeDocumentMoniker": "VoitureLuxe.cs",
+              "ToolTip": "C:\\Users\\rihan\\OneDrive\\Bureau\\Test_Technique_Progi\\Calcul.Encheres\\Calcul.Encheres.DomainAffaire\\VoitureLuxe.cs",
+              "RelativeToolTip": "VoitureLuxe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T21:10:22.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VoitureOrdinaire.cs",
+              "DocumentMoniker": "C:\\Users\\rihan\\OneDrive\\Bureau\\Test_Technique_Progi\\Calcul.Encheres\\Calcul.Encheres.DomainAffaire\\VoitureOrdinaire.cs",
+              "RelativeDocumentMoniker": "VoitureOrdinaire.cs",
+              "ToolTip": "C:\\Users\\rihan\\OneDrive\\Bureau\\Test_Technique_Progi\\Calcul.Encheres\\Calcul.Encheres.DomainAffaire\\VoitureOrdinaire.cs",
+              "RelativeToolTip": "VoitureOrdinaire.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T21:07:49.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Voiture.cs",
+              "DocumentMoniker": "C:\\Users\\rihan\\OneDrive\\Bureau\\Test_Technique_Progi\\Calcul.Encheres\\Calcul.Encheres.DomainAffaire\\Voiture.cs",
+              "RelativeDocumentMoniker": "Voiture.cs",
+              "ToolTip": "C:\\Users\\rihan\\OneDrive\\Bureau\\Test_Technique_Progi\\Calcul.Encheres\\Calcul.Encheres.DomainAffaire\\Voiture.cs",
+              "RelativeToolTip": "Voiture.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T21:01:20.926Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

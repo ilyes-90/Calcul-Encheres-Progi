@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calcul.Encheres.Services/1.0.0": {
+        "dependencies": {
+          "Calcul.Encheres.DomainAffaire": "1.0.0"
+        },
+        "runtime": {
+          "Calcul.Encheres.Services.dll": {}
+        }
+      },
+      "Calcul.Encheres.DomainAffaire/1.0.0": {
+        "runtime": {
+          "Calcul.Encheres.DomainAffaire.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calcul.Encheres.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Calcul.Encheres.DomainAffaire/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

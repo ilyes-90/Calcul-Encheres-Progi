@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Calcul.Encheres.Api.props" />
+</Project>
